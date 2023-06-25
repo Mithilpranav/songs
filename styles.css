@@ -1,0 +1,7 @@
+.clicked{
+    /* CSS properties for the active state */
+    background-color: red;
+    color: white;
+    /* Add any other styles you want to apply when the button is clicked */
+  
+}
